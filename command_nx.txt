@@ -1,0 +1,5 @@
+show int summ
+show int des
+show ip int br
+show ip arp
+show cdp nei
